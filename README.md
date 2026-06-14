@@ -3,7 +3,7 @@
 Front-end & Python developer exploring web apps and parsers
 
 ## 🚀 Skills
-- HTML5, CSS3 / SCSS, JavaScript (Vanilla & React)
+- HTML, CSS / SCSS, JavaScript (Vanilla & React)
 - Python, Web scraping
 - Git & GitHub
 
