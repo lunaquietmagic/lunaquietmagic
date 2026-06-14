@@ -1,6 +1,6 @@
 # Hi, I'm Luna 👋
 
-Front-end & Python developer exploring web apps and parsers
+Front-end & Python developer exploring programming world
 
 ## 🚀 Skills
 - HTML, CSS / SCSS, JavaScript (Vanilla & React)
