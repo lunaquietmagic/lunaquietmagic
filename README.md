@@ -1,4 +1,4 @@
-# Hi, I'm Luna 👋
+# Hi, I'm luna 👋
 
 Front-end & Python developer exploring programming world
 
